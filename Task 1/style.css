@@ -1,0 +1,130 @@
+header{
+    height: 400px;
+    color: white;
+    text-align: center;
+    padding-top:50px ;
+    background-image:url("VPN.jpg");
+    background-size: cover;
+}
+
+main {
+  display: flex;
+  height: 70vh;
+}
+
+.left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+
+
+ /* .main .right1 img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.main .right1{
+    padding-left: 880px;
+}
+
+
+.main .left img{
+    height: 300px;
+    width: 300px;
+}
+.main .left{
+    position:relative;
+    top: 40px;
+    padding-left: 50px;
+}  */
+
+
+/* .main{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.right1{
+    flex: 1;
+}
+
+.right1 img{
+    width: 200px;
+    height: auto;
+    display: block;
+}
+
+.left{
+    flex: 1;
+} */
+
+.main .right2 img{
+    height: 300px;
+    width: 300px;
+}
+.main .right2{
+    position: relative;
+    top: 40px;
+    padding-left: 880px;
+}
+
+
+.oneline img{
+    height: 300px;
+    width: 300px;
+}
+.oneline{
+    padding-left: 30px;
+    position: relative;
+    top: 100px;
+    margin: 35px;
+    display: inline-block;
+}
+
+.main #one{
+    
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer{
+    color: white;
+    height: 400px;
+    position: relative;
+    top: 200px;
+    background-image: url("footer Image.avif");
+    background-size: cover;
+}
+
+#h2insidefooter{
+    text-align: center;
+}
+
+.footerdiv{
+    padding-left: 1300px;
+}
+
+.footer a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media(max-width:768px){
+    .main{
+        flex-direction: column;
+    }
+}
