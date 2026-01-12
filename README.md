@@ -20,23 +20,27 @@ It demonstrates proper layout design, sectioning, alignment, and styling without
 - Focus on alignment, spacing, and color palette  
 - Beginner-friendly and readable code
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#🌡️ Temperature Converter
+## 🌡️ Temperature Converter
 
-A simple web application to convert temperature values between Celsius, Fahrenheit, and Kelvin using HTML, CSS, and JavaScript.
+A simple web application to convert temperature values between *Celsius (°C), Fahrenheit (°F), and Kelvin (K)* using HTML, CSS, and JavaScript.
 
-##✨ Features
-Supports °C, °F, and K conversions
-Clean and responsive UI
-Fast and accurate results
+### 🔹 Features
+- Converts °C, °F, and K  
+- Clean and responsive UI  
+- Fast and accurate results
+## 🧰 Tech Stack
 
-##🛠️ Tech Stack
-HTML
-CSS
-JavaScript
+- *HTML5* – Structure of the application  
+- *CSS3* – Styling and responsive layout  
+- *JavaScript* – Temperature conversion logic  
 
-##▶️ How to Use
-Enter temperature value
-Select input and output units
-Click Convert
+---
+
+## ▶️ How to Use
+
+1. Enter the temperature value  
+2. Select the input temperature unit  
+3. Select the output temperature unit  
+4. Click the *Convert* button to see the result
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
