@@ -20,6 +20,39 @@ It demonstrates proper layout design, sectioning, alignment, and styling without
 - Focus on alignment, spacing, and color palette  
 - Beginner-friendly and readable code
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🌐 Portfolio Website
+
+A personal portfolio website built using **HTML** and **CSS** to showcase my projects, skills, and achievements.  
+This repository contains the source code for my portfolio webpage.
+
+---
+
+## 📖 Features
+- Responsive design for desktop and mobile devices
+- Clean and modern UI
+- Sections for:
+  - About Me
+  - Skills
+  - Projects
+  - Contact Information
+- Easy to customize and extend
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – for structuring the content
+- **CSS3** – for styling and layout
+- (Optional) **Font Awesome / Google Fonts** – for icons and typography
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- A web browser (Chrome, Firefox, Edge, etc.)
+- Basic knowledge of HTML & CSS
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🌡️ Temperature Converter
 
 A simple web application to convert temperature values between *Celsius (°C), Fahrenheit (°F), and Kelvin (K)* using HTML, CSS, and JavaScript.
