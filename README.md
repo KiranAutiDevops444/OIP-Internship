@@ -42,7 +42,7 @@ This repository contains the source code for my portfolio webpage.
 ## 🛠️ Technologies Used
 - **HTML5** – for structuring the content
 - **CSS3** – for styling and layout
-- (Optional) **Font Awesome / Google Fonts** – for icons and typography
+- (Optional) **Font Awesome / Google Fonts** – for icons and typography.
 
 ---
 
@@ -74,6 +74,6 @@ A simple web application to convert temperature values between *Celsius (°C), F
 1. Enter the temperature value  
 2. Select the input temperature unit  
 3. Select the output temperature unit  
-4. Click the *Convert* button to see the result
+4. Click the *Convert* button to see the result.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
