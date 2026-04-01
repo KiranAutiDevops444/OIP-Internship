@@ -18,7 +18,7 @@ It demonstrates proper layout design, sectioning, alignment, and styling without
 - Proper sectioning using HTML  
 - Responsive layout using CSS  
 - Focus on alignment, spacing, and color palette  
-- Beginner-friendly and readable code
+- Beginner-friendly and readable code.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🌐 Portfolio Website
 
